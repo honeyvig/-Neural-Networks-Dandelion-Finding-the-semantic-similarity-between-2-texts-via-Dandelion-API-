@@ -1,4 +1,4 @@
-# -Neural-Networks-Dandelion-Finding-the-semantic-similarity-between-2-texts-via-Dandelion-API
+# -Neural-Networks-Dandelion-Finding-the-semantic-similarity-between-2-texts-via-Dandelion-API 
 To find the semantic similarity between two pieces of text using the Dandelion API and a neural network-based approach, we can follow these steps:
 
     Use the Dandelion API to extract semantic similarity scores between two texts.
